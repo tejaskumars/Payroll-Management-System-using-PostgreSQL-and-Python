@@ -1,1 +1,1 @@
-# Payroll-Management-System-using-PostgreSQL-and-Python
+I lead this project where we built a payroll management system database from scratch, we came up with an E-R diagram, then implemented it with PostgreSQL. we also built a CLI with Python to operate and perform simple to complex queries. The related files ad pdfs are added in the repository. 
